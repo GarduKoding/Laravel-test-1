@@ -1,2 +1,2 @@
-# Laravel-react-test-1
+# Laravel-reactjs-test-1
 Laravel Test with reactjs
